@@ -1,40 +1,78 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📌 Portfólio | Yan Cauê
 
-## Getting Started
+Este é o **meu portfólio pessoal**, desenvolvido para apresentar minhas **skills, projetos e trajetória profissional**.  
+Construído com **Next.js + React + TypeScript**, o projeto entrega uma interface moderna, performática e responsiva.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🚀 Tecnologias Utilizadas
+
+- **Next.js** – Framework React para SSR e SSG
+- **React.js** – Biblioteca principal para construção de interfaces
+- **TypeScript** – Tipagem estática para maior robustez
+- **Sass (SCSS)** – Estilização modular e otimizada
+- **Swiper.js** – Carrosséis e sliders dinâmicos
+- **Node.js** – Ambiente de execução
+- **Consumo da API do GitHub** – Listagem automática de repositórios
+
+---
+
+## 📂 Estrutura do Projeto
+
+```
+public/
+ ├── assets/images   → Logos e imagens de tecnologias
+ ├── videos          → Vídeos de background
+src/
+ ├── components      → Componentes reutilizáveis (Header, Sidebar, SkillsContent, etc.)
+ ├── pages           → Rotas do portfólio (home, about, projects, skills)
+ ├── styles          → Estilização global e modular
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## ✨ Funcionalidades
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+✔️ **Exibição dinâmica dos repositórios do GitHub**  
+✔️ **Página de Skills** com tecnologias organizadas por categorias  
+✔️ **Design moderno com animações**  
+✔️ **Responsivo para desktop e mobile**  
+✔️ **Sidebar interativa** para navegação entre seções  
+✔️ **Vídeo de background** para impacto visual  
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## ⚙️ Instalação e Uso
 
-## Learn More
+```bash
+# Clone o repositório
+git clone https://github.com/YanzinhoCaue/portfolio.git
 
-To learn more about Next.js, take a look at the following resources:
+# Acesse a pasta
+cd portfolio
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Instale as dependências
+yarn install
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+# Execute o servidor de desenvolvimento
+yarn dev
+```
 
-## Deploy on Vercel
+O projeto rodará em:  
+👉 `http://localhost:3000`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📬 Contato
+
+Se quiser trocar uma ideia ou tiver interesse em colaboração:
+
+- 💼 [LinkedIn](https://linkedin.com/in/yancaue)  
+- 🐙 [GitHub](https://github.com/YanzinhoCaue)
+
+---
+
+## 📢 Nota Final
+
+Esse portfólio não é apenas um site, é a **minha vitrine profissional**.  
+Aqui mostro como transformo **ideias em código** e **código em resultados**. 🚀
